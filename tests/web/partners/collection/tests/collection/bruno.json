@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "shipping-collection",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
